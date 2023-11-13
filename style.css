@@ -77,73 +77,140 @@
 
 
 
-* {
-  font-family: "Righteous", sans-serif;
-  font-family: "Nova Square", sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer class */
+
+*{font-family: 'Nova Square', sans-serif;}
+
+.colorf{
+    Color: darkred
 }
 
-.rowBtn {
-  height: 500px;
+.bgfoot{
+    background-color: rgb(237, 236, 236);
 }
-
-.btn {
-  width: 200px;
-  height: 40px;
-  border-radius: 0;
-  border: none;
-  color: white;
-  background-color: darkred;
+.mycard{
+    border: none;
+    background-color: rgb(237, 236, 236);
+    
 }
+.dimension{
+    height: 100px;
+    width: 100px;
+    border: 5px darkred solid;
+    border-collapse: separate;
+    
+   
 
-.timeline {
-  border-left: 5px solid darkred;
-  position: relative;
-  list-style: none;
 }
-
-.timeline .timelineItem {
-  position: relative;
+.fonttcf{
+    font-size: 100%;
 }
-
-.timeline .timelineItem:after {
-  position: absolute;
-  display: block;
-  top: 0;
+.fontcf{
+    font-size: 70%;
 }
-
-.timeline .timelineItem:after {
-  background-color: white;
-  border: 2px solid darkred;
-  left: -41px;
-  border-radius: 50%;
-  height: 15px;
-  width: 15px;
-  content: "";
+.dimension2{
+    height: 200px;
+    width: 200px;
+    border: 5px darkred solid;
+    border-collapse: separate;
+    border-spacing:15px ;
 }
-
-h1,
-h2,
-h3,
-h5 {
-  color: darkred;
+.colorfk{
+    Color:rgb(237, 236, 236)
 }
-
-#twoColBackground {
-  background-color: rgb(237, 236, 236);
+.space{
+    height: 300px;
+   
+    
 }
-
-.btnContainer {
-  background-color: rgb(237, 236, 236);
-  background-image: url(trees2.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: bottom;
+.bgfr{
+    background-color: darkred;
 }
-
-.timelineContainer {
-  background-image: url(single.png);
-  background-repeat: no-repeat;
-  background-position: bottom right;
+.white{
+    color: aliceblue;
+}
+.decf{
+    text-decoration: none;
+}
+.pcf{
+    padding: 1%;
 }
 .backf{
     background-image: url(./backgroung/other.png);
@@ -153,82 +220,3 @@ h5 {
     background-repeat: no-repeat;
     background-position: bottom;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
