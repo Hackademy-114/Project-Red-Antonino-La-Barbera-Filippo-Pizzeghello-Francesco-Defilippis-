@@ -196,7 +196,9 @@
     Color:rgb(237, 236, 236)
 }
 .space{
-    height: 500px;
+    height: 300px;
+   
+    
 }
 .bgfr{
     background-color: darkred;
@@ -209,4 +211,12 @@
 }
 .pcf{
     padding: 1%;
+}
+.backf{
+    background-image: url(./backgroung/other.png);
+    /* background-position: bottom; */
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
