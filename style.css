@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer class */
+
+*{font-family: 'Nova Square', sans-serif;}
+
+.colorf{
+    Color: darkred
+}
+
+.bgfoot{
+    background-color: rgb(237, 236, 236);
+}
+.mycard{
+    border: none;
+    background-color: rgb(237, 236, 236);
+    
+}
+.dimension{
+    height: 100px;
+    width: 100px;
+    border: 5px darkred solid;
+    border-collapse: separate;
+    
+   
+
+}
+.fonttcf{
+    font-size: 100%;
+}
+.fontcf{
+    font-size: 70%;
+}
+.dimension2{
+    height: 200px;
+    width: 200px;
+    border: 5px darkred solid;
+    border-collapse: separate;
+    border-spacing:15px ;
+}
+.colorfk{
+    Color:rgb(237, 236, 236)
+}
+.space{
+    height: 500px;
+}
+.bgfr{
+    background-color: darkred;
+}
+.white{
+    color: aliceblue;
+}
+.decf{
+    text-decoration: none;
+}
+.pcf{
+    padding: 1%;
+}
