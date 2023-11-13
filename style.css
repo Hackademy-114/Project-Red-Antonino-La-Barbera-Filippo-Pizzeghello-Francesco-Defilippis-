@@ -145,6 +145,14 @@ h5 {
   background-repeat: no-repeat;
   background-position: bottom right;
 }
+.backf{
+    background-image: url(./backgroung/other.png);
+    /* background-position: bottom; */
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
 
 
 
